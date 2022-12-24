@@ -32,7 +32,7 @@ public class SmileyBlues {
 		Smiley funny =  new Smiley();
 		Paul.add(funny);
 		// 6. Pack your frame
-
+		frank.pack();
 		// 7. RUN THE PROGRAM and make sure you see three blue Smileys!
 	}
 }
